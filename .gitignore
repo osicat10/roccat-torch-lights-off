@@ -1,0 +1,2 @@
+# Build output; the exe is published as a GitHub Release asset instead
+*.exe
